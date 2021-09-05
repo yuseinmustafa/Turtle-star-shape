@@ -1,0 +1,10 @@
+import turtle 
+
+bob = turtle.Turtle()
+
+for i in range(100):
+    bob.forward(200)
+    bob.left(135)
+
+
+turtle.done()
